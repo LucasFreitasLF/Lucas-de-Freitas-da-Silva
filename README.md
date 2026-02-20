@@ -2,7 +2,7 @@
 
 🎓 Estudante de Engenharia de Software (UniBrasil)  
 📍 Curitiba/PR – Brasil  
-💼 Aberto a oportunidades de estágio e posições Jr em Desenvolvimento / Dados / Suporte TI  
+💼 Aberto a oportunidades de posições Jr em Desenvolvimento / Dados / Suporte TI  
 
 ---
 
